@@ -1,3 +1,4 @@
 # LAB ASSIGNMENT - 1
-![img1](https://github.com/abhinab-choudhury/Programming-Assignment-SEM-1/assets/132006996/c66bb376-3868-4c8f-90d4-e297e9c50f97)
-![img2](https://github.com/abhinab-choudhury/Programming-Assignment-SEM-1/assets/132006996/3b5bb885-ff4b-4cfb-9765-9da5959f6751)
+![image](https://github.com/abhinab-choudhury/Programming_Assignment_1_SEM_1/assets/132006996/79eb5407-497e-4730-80a3-f9f8d3445913)
+![image](https://github.com/abhinab-choudhury/Programming_Assignment_1_SEM_1/assets/132006996/90dd3d8c-cfd6-41aa-bed3-58255ca75e3f)
+
