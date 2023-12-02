@@ -1,3 +1,4 @@
 # HOME ASSIGNMENT - 1
-![img3](https://github.com/abhinab-choudhury/Programming-Assignment-SEM-1/assets/132006996/5682581e-2b60-4c3a-b074-4591c6cf188d)
-![img4](https://github.com/abhinab-choudhury/Programming-Assignment-SEM-1/assets/132006996/7c9b7fb7-2fc5-4bbd-9711-93254e424e7a)
+![image](https://github.com/abhinab-choudhury/Programming_Assignment_1_SEM_1/assets/132006996/06508fc8-33cb-4c10-9d7c-235b704876c6)
+
+![image](https://github.com/abhinab-choudhury/Programming_Assignment_1_SEM_1/assets/132006996/5377f3cb-33c8-439b-817f-ab0476261599)
